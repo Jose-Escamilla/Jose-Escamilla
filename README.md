@@ -1,7 +1,7 @@
 # Hi there, I'm José Escamilla 👋
 ![](https://komarev.com/ghpvc/?username=yJose-Escamilla&style=flat-square)
 
-#### *"Learn to solve all the problems that have already been solved"* - Richard Feynman
+### *"Learn to solve all the problems that have already been solved"* - Richard Feynman
 ## 👨🏻‍💻 About Me: 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
