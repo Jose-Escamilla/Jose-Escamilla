@@ -12,7 +12,7 @@
 - 👨‍🏫 I like to share my knowledge. 
 - 📚 An eternal learner.
 
-## 🛠 Languages and Tools
+## 🛠 Languages and Tools:
 
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)  ![Octave](https://img.shields.io/badge/octave-%230790C0.svg?&style=for-the-badge&logo=octave&logoColor=white)   ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)  ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
