@@ -21,12 +21,12 @@
 ![Altium](https://img.shields.io/badge/altium%20designer-%23A5915F.svg?&style=for-the-badge&logo=altium%20designer&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-%23008082.svg?&style=for-the-badge&logo=atom&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white)  ![NXsiemens](https://img.shields.io/badge/NX%20siemens-%23039999.svg?&style=for-the-badge&logo=siemens&logoColor=white) ![SolidWorks](https://img.shields.io/badge/Solid%20Works-%23BF0000.svg?&style=for-the-badge&logo=sahibinden&logoColor=white)  ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white) 
 
-### 😅 My GitHub status:
+## 😅 My GitHub status:
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Escamilla)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Escamilla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🤝🏻 Connect with Me: 
+## 🤝🏻 Connect with Me: 
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-de-jes%C3%BAs-escamilla-losoyo-6854b121b/"><img src="https://img.shields.io/badge/José%20Escamilla-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>	
 
